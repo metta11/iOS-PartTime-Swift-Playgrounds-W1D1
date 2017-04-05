@@ -26,12 +26,18 @@ var count = 0
 
 count = 10
 
+
 //: *Note:* To create a new variable we write `var` before the name, when we change the data inside an existing variable we do not.
 
 
 //: ### Challenge 1
 //:
 //: Now it's your turn. Change `greeting` to be a different string by using the assignment operator.
+greeting = "hurrreeey"
+
+
+
+
 
 
 
